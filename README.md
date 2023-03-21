@@ -11,9 +11,9 @@
       <img alt="Rafael Araujo" src="https://img.shields.io/badge/-Rafael%20Araujo-273FAD?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafa543/SavePass-Ignite-rocketseat?color=273FAD">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafa543/savepass-ignite-desafio?color=273FAD">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafa543/SavePass-Ignite-rocketseat?color=273FAD">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafa543/savepass-ignite-desafio?color=273FAD">
   
 </p>
 
@@ -68,14 +68,14 @@ Armazenamento Local e muito mais.
 ## Preview
 
 <h1 align="center">
-   <img src="https://github.com/rafa543/SavePass-Ignite-rocketseat/blob/main/assets/Screenrecorder-2023-03-19-08-45-18-521.gif" alt="App savePass" />
+   <img src="https://github.com/rafa543/savepass-ignite-desafio/blob/main/assets/Screenrecorder-2023-03-19-08-45-18-521.gif" alt="App savePass" />
 </h1>
 
 <!--Layout session-->
 
 ## 🎨 Layout
 
-![mobile](https://github.com/rafa543/SavePass-Ignite-rocketseat/blob/main/assets/layout.png)
+![mobile](https://github.com/rafa543/savepass-ignite-desafio/blob/main/assets/layout.png)
 
 <!--Running session-->
 
